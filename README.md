@@ -47,3 +47,4 @@ Partitioning Process:
 The quick_partition function is responsible for partitioning the array and determining the pivot element.
 The pivot element is selected as the first element of the partition.
 <img src="https://github.com/NinjaMohit/JAVAScript_Project/blob/main/SortingVisualization_Algo/images/img7.png">
+<p>Done</p>
