@@ -1,7 +1,7 @@
 <h1>This Project involve visualization of  Bubble sort, Merge sort, and Quicksort algorithms using HTML, CSS, and JavaScript</h1>
 
 <h3>1. Visualization </h3>
-<p>Visualization Update Function (div_update):
+<p>Visualization Update Function :
   
 This function is responsible for updating the style (height and background-color) of a sorting element (cont) with a specified height and color.
 It uses setTimeout to introduce a delay based on the delay_time variable, ensuring a smooth visualization.
